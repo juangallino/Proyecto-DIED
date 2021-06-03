@@ -1,3 +1,5 @@
+Se implemetaron algoritmos de busqueda y ordenamiento. Tambien un servicio de eleccion de mejor camino en un Grafo n-ario con Peso untilizando el algoritmo de dijkstra.
+
 Modo de Uso:
     
     1) Ejecutar InicializacionEstadoPedido. Crea las entidades EstadoPedido. Verificar en BD que los ID sean: 1,2,3,4 o el programa fallará
