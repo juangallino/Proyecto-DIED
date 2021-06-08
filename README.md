@@ -1,4 +1,20 @@
-Se implemetaron algoritmos de busqueda y ordenamiento. Tambien un servicio de eleccion de mejor camino en un Grafo n-ario con Peso untilizando el algoritmo de dijkstra.
+
+ <h2 centre>Proyecto practico de la catedra de Diseño de Sistemas. AGOSTO-2020 </h2>
+ 
+ ## Sistema de logistica para una empresa de transporte
+    Esquema de rutas y plantas basados en un grafo bidirecional con peso.
+    Trabajo Grupal de 3 integrantes.
+    Se aplicaron fundamentos de POO y programacion funcional.
+    Se implemento testeo de los metodos principales.
+    Excepciones personalizadas.
+    Post relevamiento, analisis y diseño del proyecto: Creacion de la base de datos y del entorno productivo basandonos en un esquema de 3 capaz.
+    
+ 
+ <b>Mi rol</b> principal fue implementar toda la logica de negocios pero especialmente la logica de eleccion de mejor camino en un Grafo n-ario con Peso untilizando el <b>algoritmo de dijkstra.</b>
+
+Stack Tenologico:
+    swing, Java, Hibernet, mariaDb, Junit
+
 
 Modo de Uso:
     
